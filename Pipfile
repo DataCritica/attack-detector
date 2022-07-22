@@ -11,6 +11,10 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 plotly = "*"
+twarc = "*"
+ipywidgets = "*"
+twarc-network = "*"
+twarc-csv = "*"
 
 [dev-packages]
 
