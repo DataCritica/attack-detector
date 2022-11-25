@@ -15,6 +15,12 @@ twarc = "*"
 ipywidgets = "*"
 twarc-network = "*"
 twarc-csv = "*"
+openpyxl = "*"
+matplotlib = "*"
+sentence-transformers = "*"
+umap-learn = "*"
+hdbscan = "*"
+joblib = "==1.1.0"
 
 [dev-packages]
 
